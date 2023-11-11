@@ -1,0 +1,11 @@
+stdiomask
+requests
+bs4
+colorama
+mechanize
+lolcat
+gem
+pytube
+rich
+pycryptodome
+datetime
