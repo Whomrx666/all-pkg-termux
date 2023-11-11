@@ -16,7 +16,7 @@ $ python3 install.py
 ```
 
 ## Instructions
-- **for using**Follow the installation method as above and the script will automatically install all packages in Termux
+- **for using**:Follow the installation method as above and the script will automatically install all packages in Termux
 
 ### Original Author
 <a href="https://github.com/Whomrx666"><img src="https://img.shields.io/badge/Original-Author-brightgreen.svg" alt=""/></a>
